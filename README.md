@@ -1,4 +1,4 @@
-# Letters Of Reccomendation
+# Letters Of Recomendation
 I am happy to write letters of recommendation. You can use the following information for my contact information:   
 
 Art Simon, Room 334   
