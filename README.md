@@ -1,7 +1,7 @@
 # Letters Of Reccomendation
 I am happy to write letters of recommendation. You can use the following information for my contact information:   
 
-Room 334   
+Art Simon, Room 334   
 Lowell High School   
 1101 Eucalyptus Dr.   
 San Francisco, CA 94132   
