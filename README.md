@@ -8,7 +8,7 @@ San Francisco, CA 94132
 phone: (415) 759-2730 x3334   
 fax: (415) 759-2742   
   
-simona1@sfusd.edu *district* email 
+simona1@sfusd.edu *district* email   
 simart@gmail.com *personal* email 
 
 If you would like me to write a letter of recommendation, please give me a short description of what the recommendation is for, where I should send it and when it is due. 
