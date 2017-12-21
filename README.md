@@ -15,6 +15,6 @@ If you would like me to write a letter of recommendation, please give me a short
 
 If you have a GitHub account, please include a link to your GitHub website.
 
-I like to write about what I've personally seen you do. Think about your favorite programming projects, lessons, or classroom experiences. It's really helpful to me if you could write a few sentences or so about what your favorites were and why you chose them. Also, please consider attaching screenshots that illustrate your programming assignments or class activities. You can see a sample letter of recommendation below that shows how I would use your screenshots. I find *print screen* and the *snipping tool* both work well in Windows for taking screenshots. Don't hesitate to ask me if you have any questions or concerns.
+I like to write about what I've personally seen you do. Think about your favorite programming projects, lessons, or classroom experiences. Was there a time when you struggled with a lesson, concept or assignment and eventually succeeded? It's really helpful to me if you could write a few sentences or so about what your favorites were and why you chose them. Also, please consider attaching screenshots that illustrate your programming assignments or class activities. You can see a sample letter of recommendation below that shows how I would use your screenshots. I find *print screen* and the *snipping tool* both work well in Windows for taking screenshots. Don't hesitate to ask me if you have any questions or concerns.
 
 ![Sample Letter of Recommendation](SampleLetterOfRec.jpg)
