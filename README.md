@@ -1,16 +1,14 @@
 # Letters Of Recomendation
-I am happy to write letters of recommendation. You can use the following information for my contact information:   
+I am ambivalent about writing letters of recommendation. I may accept or I may respectfully decline. You can use the following information for my contact information:   
 
-Art Simon, Room 334   
+Raymond Chan, Room 334   
 Lowell High School   
 1101 Eucalyptus Dr.   
 San Francisco, CA 94132   
 phone: (415) 759-2730 x3334   
 fax: (415) 759-2742   
-   
-simart@gmail.com 
 
-If you would like me to write a letter of recommendation, please give me a short description of what the recommendation is for, where I should send it and when it is due.  
+To increase your chances of receiving a letter from me, please give me a short description of what the recommendation is for, a resume/fact sheet, drats of an essays your are writing for your application/scholarship, where I should send it and when it is due.  
 
 If you have a GitHub account, please include a link to your GitHub website.
 
@@ -19,3 +17,5 @@ I like to write about what I've personally seen you do. Think about your favorit
 ![Sample Letter of Recommendation](SampleLetterOfRec.jpg)
 
 **Special note for EOP recommendations:** An EOP student is one who has the potential to perform satisfactorily in UC/CSU but who has not been able to realize this potential because of economic or educational background. The program provides admission, academic, and financial assistance to eligible undergraduate students. If you need an EOP recommendation, please consider sharing what challenges you are facing and if mentorship, academic programs, financial assistance, counseling/advising, or other campus support services would be helpful.
+
+In return, you should *at minimum* tell me (in-person preferred over email) the results of your application/scholarship. It is unbeleivable how many letters I have written for students with no follow up. 
